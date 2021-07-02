@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">7.2",
-        "myth/auth": "dev-develop",
+        "myth/auth": "1.0",
         "codeigniter4/translations" : "v4.0.0-rc.3"
     },
     "require-dev": {
