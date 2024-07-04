@@ -3,7 +3,7 @@
 namespace agungsugiarto\boilerplate\Entities;
 
 use agungsugiarto\boilerplate\Models\MenuModel;
-use CodeIgniter\Entity;
+use CodeIgniter\Entity\Entity;
 
 /**
  * Class MenuEntity.
