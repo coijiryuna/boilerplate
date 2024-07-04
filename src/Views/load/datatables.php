@@ -14,7 +14,7 @@
 <script>
     $.extend( true, $.fn.dataTable.defaults, {
         language: {
-            url: "//cdn.datatables.net/plug-ins/1.10.20/i18n/<?= config('Boilerplate')->i18n ?>.json"
+            url: "https://cdn.datatables.net/plug-ins/1.10.20/i18n/<?= config('Boilerplate')->i18n ?>.json"
         }
     });
 </script>
